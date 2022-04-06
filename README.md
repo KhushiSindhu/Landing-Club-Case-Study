@@ -13,4 +13,7 @@ Two types of risks are associated with the bank’s decision.
 2. Python File      : Briefinsights and observations from the analysis ,code and relevant plots.
 3. Presentation File: Describing overall Approach of Analysis.
 
+### Contributors: This repo contains contribution from following 2 Users:
+santosh.bciit@gmail.com ; UserName :KhushiSindhu
 
+gokulrrs@gmail.com  :UserName: GokulNov4
